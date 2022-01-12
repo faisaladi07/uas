@@ -166,50 +166,51 @@ while True:
     else:
         print("Menu yang anda pilih tidak ada, Silahkan pilih menu yang tersedia")
 ```
+
 <p>
 
-![gambar2](ssuas/ss1.PNG)
+![gambar2](ssuas/ss1.png)
 
 * Diatas adalah hasil program ketika dirun, dan menampilkan menu utama
 
-![gambar3](ssuas/ss2.PNG)
+![gambar3](ssuas/ss2.png)
 
 * Diatas adalah hasil ketika program dirun, dan menekan angka 1 pada keyboard, untuk menambah data
 
-![gambar4](ssuas/ss3.PNG)
+![gambar4](ssuas/ss3.png)
 
 * Diatas adalah hasil program ketika dirun, dan menekan angka 2 pada keyboard, untuk mencari data dengan prompt masukkan nama yang ingin di cari
 
-![gambar5](ssuas/ss4.PNG)
+![gambar5](ssuas/ss4.png)
 
 * Diatas adalah hasil ketika program dirun, dan menekan angka 1 pada keyboard, untuk melakukan penambahan data, disini kita tambahkan data riski
 
 
-![gambar6](ssuas/ss5.PNG)
+![gambar6](ssuas/ss5.png)
 
 * Diatas adalah hasil ketika program dirun, dan menekan angka 3 pada keyboard, untuk melihat semua daftar data yang ada
 
-![gambar7](ssuas/ss6.PNG)
+![gambar7](ssuas/ss6.png)
 
 * Diatas adalah hasil ketika program dirun, dan menekan angka 4 pada keyboard, untuk merubah data, disini kita ubah data nilai pada nama faisal adi titisno
 
 
-![gambar8](ssuas/ss7.PNG)
+![gambar8](ssuas/ss7.png)
 
 * Dan untuk melihat apakah data telah terubah, maka kita menekan angka 3 pada keyboard, untuk melihat daftar data yang ada, disini sudah terlihat bahwa data faisal adi titisno sudah berubah nilai nya
 
 
-![gambar9](ssuas/ss8.PNG)
+![gambar9](ssuas/ss8.png)
 
 * Dibawah adalah hasil ketika program dirun, dan menekan angka 5 pada keyboard, untuk perintah hapus data, dengan prompt masukkan nama data yang ingin di hapus, disini kita akan menghapus data dengan nama riski
 
 
-![gambar10](ssuas/ss9.PNG)
+![gambar10](ssuas/ss9.png)
 
 * Dibawah adalah hasil ketika program dirun, dan maasukan angka 3 pada keyboard, untuk melihat daftar yang ada, karena adanya penghapusan data, apakah data dengan nama riski sudah terhapus atau belum
 
 
-![gambar11](ssuas/ss10.PNG)
+![gambar11](ssuas/ss10.png)
 
 * Di atas adalah ketika program dijalankan, dan input angka 6 pada keyboard, untuk selesai atau keluar dari program
 <p>
