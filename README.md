@@ -205,7 +205,7 @@ while True:
 * Diatas adalah hasil ketika program dirun, dan menekan angka 5 pada keyboard, untuk perintah hapus data, dengan prompt masukkan nama data yang ingin di hapus, disini kita akan menghapus data dengan nama riski
 
 
-![gambar10](ssuas/ss9.png)
+![gambar10](ssuas/sss9.png)
 
 * Diatas adalah hasil ketika program dirun, dan maasukan angka 3 pada keyboard, untuk melihat daftar yang ada, karena adanya penghapusan data, apakah data dengan nama riski sudah terhapus atau belum
 
